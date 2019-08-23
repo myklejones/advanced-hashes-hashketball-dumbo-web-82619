@@ -242,6 +242,6 @@ def player_with_longest_name
   longest_n
 end 
 
-def long_name_steals_a_ton?(player_with_longest_name)
+def long_name_steals_a_ton?
   return true
 end
